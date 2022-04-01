@@ -3,7 +3,7 @@
 - ❤  Solving CTFs have became my hobby.
 - 🌱 I’m currently learning web hacking for bug bounty.
 - 💞️ I’m looking to collaborate on discord.
-- 📫 How to reach me 
+<!--- 📫 How to reach me ->
 
 <!---
 VrajBharambe/VrajBharambe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
