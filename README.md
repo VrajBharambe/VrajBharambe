@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @VrajBharambe
 - 👀 I’m interested in Cyber Security, Penetration Testing, Bug Bounty and a bit of Blue Teaming.
+- ❤  Solving CTFs have became my hobby.
 - 🌱 I’m currently learning web hacking for bug bounty.
 - 💞️ I’m looking to collaborate on discord.
 - 📫 How to reach me 
